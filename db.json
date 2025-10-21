@@ -1,46 +1,110 @@
 {
-  "properties": [
+  "tosse": [
     {
-      "id": 1,
-      "valor": 2225.000,
-      "avaliacao": 4.80,
-      "datas": "10-31 Dec",
-      "local": "Harlingen, Netherlands",
-      "tipoDeHost": "Professional Host",
-      "urlImage": "https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg?fit=3200%2C2133"
+      "nome": "Dr. Carlos Pereira",
+      "cidade": "Recife",
+      "telefone": "+55 81 98765-4321"
     },
     {
-      "id": 2,
-      "valor": 1850.000,
-      "avaliacao": 4.92,
-      "datas": "20-28 Jul",
-      "local": "Campos do Jordão, Brazil",
-      "tipoDeHost": "Superhost",
-      "urlImage": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/667104136.jpg?k=0232c39cb40c3b9c7c3b60b2c5c9fa1d0c7c25b4e20e3354ae71df528b0a13a9&o=&hp=1"
-    },
-    {
-      "id": 3,
-      "valor": 980.000,
-      "avaliacao": 4.75,
-      "datas": "05-15 Sep",
-      "local": "Lisbon, Portugal",
-      "tipoDeHost": "Professional Host",
-      "urlImage": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82990832.jpg?k=83c1b95f88126bb3f1d822c19654c1ff5e1b037c4d25042dbd82112e25331afb&o=&hp=1"
-    },
-    {
-      "id": 4,
-      "valor": 3200.000,
-      "avaliacao": 4.98,
-      "datas": "28 Dec - 05 Jan",
-      "local": "Florianópolis, Brazil",
-      "tipoDeHost": "Superhost",
-      "urlImage": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173625874.jpg?k=5d9a7d0bcdb33c8c6959ac1d03cd869a7a34cbc1e16485486e518fb846fb664a&o=&hp=1"
+      "nome": "Dra. Juliana Alves",
+      "cidade": "Fortaleza",
+      "telefone": "+55 85 99877-6655"
     }
   ],
-  "users": [
+  "dor no peito": [
     {
-      "username": "joao@gmail.com",
-      "password": "123456"
+      "nome": "Dra. Ana Souza",
+      "cidade": "Campinas",
+      "telefone": "+55 19 99876-5432"
+    },
+    {
+      "nome": "Dr. Rodrigo Martins",
+      "cidade": "São Paulo",
+      "telefone": "+55 11 97654-4321"
+    }
+  ],
+  "febre": [
+    {
+      "nome": "Dr. Rafael Lima",
+      "cidade": "São Paulo",
+      "telefone": "+55 11 98765-6789"
+    },
+    {
+      "nome": "Dra. Camila Santos",
+      "cidade": "Rio de Janeiro",
+      "telefone": "+55 21 99887-7766"
+    }
+  ],
+  "dor de cabeça": [
+    {
+      "nome": "Dra. Mariana Ribeiro",
+      "cidade": "Florianópolis",
+      "telefone": "+55 48 99988-7766"
+    },
+    {
+      "nome": "Dr. Bruno Oliveira",
+      "cidade": "Belo Horizonte",
+      "telefone": "+55 31 98765-4321"
+    }
+  ],
+  "náusea": [
+    {
+      "nome": "Dr. Felipe Moreira",
+      "cidade": "São Paulo",
+      "telefone": "+55 11 97654-3210"
+    },
+    {
+      "nome": "Dra. Beatriz Costa",
+      "cidade": "Curitiba",
+      "telefone": "+55 41 99876-5432"
+    }
+  ],
+  "falta de ar": [
+    {
+      "nome": "Dr. Carlos Pereira",
+      "cidade": "Recife",
+      "telefone": "+55 81 98765-4321"
+    },
+    {
+      "nome": "Dra. Juliana Alves",
+      "cidade": "Fortaleza",
+      "telefone": "+55 85 99877-6655"
+    }
+  ],
+  "palpitação": [
+    {
+      "nome": "Dra. Ana Souza",
+      "cidade": "Campinas",
+      "telefone": "+55 19 99876-5432"
+    },
+    {
+      "nome": "Dr. Rodrigo Martins",
+      "cidade": "São Paulo",
+      "telefone": "+55 11 97654-4321"
+    }
+  ],
+  "tontura": [
+    {
+      "nome": "Dra. Mariana Ribeiro",
+      "cidade": "Florianópolis",
+      "telefone": "+55 48 99988-7766"
+    },
+    {
+      "nome": "Dr. Bruno Oliveira",
+      "cidade": "Belo Horizonte",
+      "telefone": "+55 31 98765-4321"
+    }
+  ],
+  "dor abdominal": [
+    {
+      "nome": "Dr. Felipe Moreira",
+      "cidade": "São Paulo",
+      "telefone": "+55 11 97654-3210"
+    },
+    {
+      "nome": "Dra. Beatriz Costa",
+      "cidade": "Curitiba",
+      "telefone": "+55 41 99876-5432"
     }
   ]
 }
