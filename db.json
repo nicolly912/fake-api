@@ -1,62 +1,27 @@
 {
-  "tosse": [
-    {
-      "nome": "Dr. Carlos Pereira",
-      "cidade": "Recife",
-      "telefone": "+55 81 98765-4321"
-    },
-    {
-      "nome": "Dra. Juliana Alves",
-      "cidade": "Fortaleza",
-      "telefone": "+55 85 99877-6655"
-    }
-  ],
-  "dor no peito": [
-    {
-      "nome": "Dra. Ana Souza",
-      "cidade": "Campinas",
-      "telefone": "+55 19 99876-5432"
-    },
-    {
-      "nome": "Dr. Rodrigo Martins",
-      "cidade": "São Paulo",
-      "telefone": "+55 11 97654-4321"
-    }
-  ],
-  "febre": [
-    {
-      "nome": "Dr. Rafael Lima",
-      "cidade": "São Paulo",
-      "telefone": "+55 11 98765-6789"
-    },
-    {
-      "nome": "Dra. Camila Santos",
-      "cidade": "Rio de Janeiro",
-      "telefone": "+55 21 99887-7766"
-    }
-  ],
-  "dor de cabeça": [
-    {
-      "nome": "Dra. Mariana Ribeiro",
-      "cidade": "Florianópolis",
-      "telefone": "+55 48 99988-7766"
-    },
-    {
-      "nome": "Dr. Bruno Oliveira",
-      "cidade": "Belo Horizonte",
-      "telefone": "+55 31 98765-4321"
-    }
-  ],
-  "náusea": [
-    {
-      "nome": "Dr. Felipe Moreira",
-      "cidade": "São Paulo",
-      "telefone": "+55 11 97654-3210"
-    },
-    {
-      "nome": "Dra. Beatriz Costa",
-      "cidade": "Curitiba",
-      "telefone": "+55 41 99876-5432"
-    }
-  ]
+  "tosse": {
+    "nome": "Dr. Carlos Pereira",
+    "cidade": "Recife",
+    "telefone": "+55 81 98765-4321"
+  },
+  "dor no peito": {
+    "nome": "Dra. Ana Souza",
+    "cidade": "Campinas",
+    "telefone": "+55 19 99876-5432"
+  },
+  "febre": {
+    "nome": "Dr. Rafael Lima",
+    "cidade": "São Paulo",
+    "telefone": "+55 11 98765-6789"
+  },
+  "dor de cabeça": {
+    "nome": "Dra. Mariana Ribeiro",
+    "cidade": "Florianópolis",
+    "telefone": "+55 48 99988-7766"
+  },
+  "náusea": {
+    "nome": "Dr. Felipe Moreira",
+    "cidade": "São Paulo",
+    "telefone": "+55 11 97654-3210"
+  },
 }
