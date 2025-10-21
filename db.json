@@ -58,53 +58,5 @@
       "cidade": "Curitiba",
       "telefone": "+55 41 99876-5432"
     }
-  ],
-  "falta de ar": [
-    {
-      "nome": "Dr. Carlos Pereira",
-      "cidade": "Recife",
-      "telefone": "+55 81 98765-4321"
-    },
-    {
-      "nome": "Dra. Juliana Alves",
-      "cidade": "Fortaleza",
-      "telefone": "+55 85 99877-6655"
-    }
-  ],
-  "palpitação": [
-    {
-      "nome": "Dra. Ana Souza",
-      "cidade": "Campinas",
-      "telefone": "+55 19 99876-5432"
-    },
-    {
-      "nome": "Dr. Rodrigo Martins",
-      "cidade": "São Paulo",
-      "telefone": "+55 11 97654-4321"
-    }
-  ],
-  "tontura": [
-    {
-      "nome": "Dra. Mariana Ribeiro",
-      "cidade": "Florianópolis",
-      "telefone": "+55 48 99988-7766"
-    },
-    {
-      "nome": "Dr. Bruno Oliveira",
-      "cidade": "Belo Horizonte",
-      "telefone": "+55 31 98765-4321"
-    }
-  ],
-  "dor abdominal": [
-    {
-      "nome": "Dr. Felipe Moreira",
-      "cidade": "São Paulo",
-      "telefone": "+55 11 97654-3210"
-    },
-    {
-      "nome": "Dra. Beatriz Costa",
-      "cidade": "Curitiba",
-      "telefone": "+55 41 99876-5432"
-    }
   ]
 }
